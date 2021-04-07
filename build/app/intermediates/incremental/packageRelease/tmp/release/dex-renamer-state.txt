@@ -1,0 +1,4 @@
+#Wed Apr 07 00:44:33 PDT 2021
+base.0=/Users/user180107/Documents/Food Delivery James/Driver/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

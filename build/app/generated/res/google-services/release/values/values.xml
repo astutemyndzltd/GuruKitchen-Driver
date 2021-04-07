@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">877326407146-t248ca0oprnlqrn8fndrdbpnlkv7705g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gurukitchen-3036d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">877326407146</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYy2h348W2B9SnIwCyvL5C8rJWAkWUDTo</string>
+    <string name="google_app_id" translatable="false">1:877326407146:android:c4565972956920f9b4ce93</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYy2h348W2B9SnIwCyvL5C8rJWAkWUDTo</string>
+    <string name="google_storage_bucket" translatable="false">gurukitchen-3036d.appspot.com</string>
+    <string name="project_id" translatable="false">gurukitchen-3036d</string>
+</resources>

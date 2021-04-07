@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/user180107/Documents/Food Delivery James/Driver/build/location/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/user180107/.gradle/caches/transforms-2/files-2.1/75e7992f91a83b5cd5e93d5e32c70b16/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/user180107/Documents/Food Delivery James/Driver/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/user180107/.gradle/caches/transforms-2/files-2.1/75e7992f91a83b5cd5e93d5e32c70b16/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/user180107/Documents/Food Delivery James/Driver/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/user180107/.gradle/caches/transforms-2/files-2.1/75e7992f91a83b5cd5e93d5e32c70b16/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
